@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml" xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1" xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://nextarter-chakra.sznm.dev</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/community/blog</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/community/blog_detail</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/contact</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/explore</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/explore/item_detail</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/pages/authors</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/pages/create_item</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextarter-chakra.sznm.dev/pages/wallet_connect</loc><lastmod>2022-12-05T09:20:42.452Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
