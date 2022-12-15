@@ -216,13 +216,13 @@ const HeaderMain: React.FC = () => {
                   <span>Connect Wallet</span>
                 </a>
               </Box>
-              <Avatar
-                width={45}
-                height={45}
-                alt={alt}
-                src={src}
-                style={ImgStyle}
-              />
+              {/*<Avatar*/}
+              {/*  width={45}*/}
+              {/*  height={45}*/}
+              {/*  alt={alt}*/}
+              {/*  src={src}*/}
+              {/*  style={ImgStyle}*/}
+              {/*/>*/}
               <Box className="mode_switcher">
                 <h6>
                   <span>Dark Mode</span> <strong>Activate</strong>
